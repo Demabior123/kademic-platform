@@ -1,0 +1,20 @@
+# Kademic Platform
+
+Kademic is an online class management platform that helps students with assignments, discussion posts, and full online course support.
+
+## Features
+
+- Assignment help ($15 per page)
+- Discussion posts ($7)
+- Full class management (5-week and 8-week options)
+- Referral system ($100 credit per referral)
+
+## Tech Stack
+
+- Frontend: React + Tailwind CSS
+- Backend: Node.js + Express
+- Database: MongoDB
+
+## Project Status
+
+🚧 Currently in development (30-day build challenge)
