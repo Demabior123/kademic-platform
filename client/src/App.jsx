@@ -142,6 +142,24 @@ function App() {
         </div>
 
       </section>
+      {/* CTA Section */}
+<section className="bg-green-600 text-white text-center py-20 px-6">
+
+  <h2 className="text-4xl font-bold max-w-2xl mx-auto">
+    Need Help With Your Assignment or Online Class?
+  </h2>
+
+  <p className="mt-4 text-lg text-green-100">
+    Submit your task today and get professional assistance from experts.
+  </p>
+
+  <div className="mt-8">
+    <button className="bg-white text-green-600 px-8 py-3 rounded-lg text-lg font-semibold hover:bg-gray-100">
+      Submit Assignment Now
+    </button>
+  </div>
+
+</section>
 
     </div>
   )
